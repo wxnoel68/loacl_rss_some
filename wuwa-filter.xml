@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>wuwa-filter</title>
+    <link>https://raw.gitcode.com/wscdcyy/loacl_rss/raw/master/wuwa-filter.xml</link>
+    <description>\u9e23\u6f6e</description>
+    <language>zh-cn</language>
+    <pubDate>Wed, 10 Dec 2025 06:26:17 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2025 06:26:17 GMT</lastBuildDate>
+    <generator>RSS Filter</generator>
+    <ttl>30</ttl>
+  </channel>
+</rss>
